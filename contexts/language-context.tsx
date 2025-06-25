@@ -770,7 +770,14 @@ const translations = {
 export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [language, setLanguage] = useState<Language>("pt")
 
-  const t = (key: string): string => translations[language][key] ?? key
+  const t = (key: keyof typeof translations["pt"]): string => {
+    // Garante que a chave existe no objeto de traduções para o idioma atual
+    const langTranslations = translations[language] as Record<string, string>
+    return langTranslations[key] ?? key
+  }
 
-  return <LanguageContext.Provider value={{ language, setLanguage, t }}>{children}</LanguageContext.Provider>
-}
+  return (
+    <LanguageContext.Provider value={{ language, setLanguage, t: (key: string) => t(key as keyof typeof translations["pt"]) }}>
+      {children}
+      </LanguageContext.Provider>
+  )}
