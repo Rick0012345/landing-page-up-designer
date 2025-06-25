@@ -55,7 +55,7 @@ const translations = {
     // Package IA START
     "package.ia.name": "IA START",
     "package.ia.description": "LOGÓTIPO POR IA, JPG E PNG ALTA RESOLUÇÃO (MARCA DE ÁGUA EM PNG)",
-    "package.ia.price": "€10,01",
+    "package.ia.price": "€34,99",
     "package.ia.originalPrice": "€49,99",
     "package.ia.feature1": "Logótipo gerado por IA com personalização segundo as suas preferências",
     "package.ia.feature2": "Ficheiro JPG de alta resolução, ideal para redes sociais, apresentações e uso digital",
