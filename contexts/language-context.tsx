@@ -170,6 +170,10 @@ const translations = {
     "checkout.personalized": "💬 Atendimento personalizado",
     "checkout.fast": "⚡ Resposta rápida garantida",
     "checkout.preferences": "🎨 Indique as suas preferências diretamente",
+
+    // Thank You Page
+    "thankyou.title": "Clique agora no botão para confirmar seu pedido e ativar automaticamente sua recompensa exclusiva",
+    "thankyou.back": "Voltar para a página inicial",
   },
   es: {
     // Header Stats
@@ -318,6 +322,10 @@ const translations = {
     "checkout.personalized": "💬 Atención personalizada",
     "checkout.fast": "⚡ Respuesta rápida garantizada",
     "checkout.preferences": "🎨 Envía tus preferencias directamente",
+
+    // Thank You Page
+    "thankyou.title": "Haz clic ahora en el botón para confirmar tu pedido y activar automáticamente tu recompensa exclusiva",
+    "thankyou.back": "Volver a la página principal",
   },
   fr: {
     // Header Stats
@@ -468,6 +476,10 @@ const translations = {
     "checkout.personalized": "💬 Service personnalisé",
     "checkout.fast": "⚡ Réponse rapide garantie",
     "checkout.preferences": "🎨 Transmettez vos préférences directement",
+
+    // Thank You Page
+    "thankyou.title": "Cliquez maintenant sur le bouton pour confirmer votre commande et activer automatiquement votre récompense exclusive",
+    "thankyou.back": "Retour à la page d'accueil",
   },
   it: {
     // Header Stats
@@ -616,6 +628,10 @@ const translations = {
     "checkout.personalized": "💬 Assistenza personalizzata",
     "checkout.fast": "⚡ Risposta rapida garantita",
     "checkout.preferences": "🎨 Invia direttamente le tue preferenze",
+
+    // Thank You Page
+    "thankyou.title": "Clicca ora sul pulsante per confermare il tuo ordine e attivare automaticamente la tua ricompensa esclusiva",
+    "thankyou.back": "Torna alla pagina principale",
   },
   de: {
     // Header Stats
@@ -764,6 +780,10 @@ const translations = {
     "checkout.personalized": "💬 Persönliche Betreuung",
     "checkout.fast": "⚡ Garantierte schnelle Antwort",
     "checkout.preferences": "🎨 Geben Sie Ihre Präferenzen direkt an",
+
+    // Thank You Page
+    "thankyou.title": "Klicken Sie jetzt auf die Schaltfläche, um Ihre Bestellung zu bestätigen und Ihre exklusive Belohnung automatisch zu aktivieren",
+    "thankyou.back": "Zurück zur Hauptseite",
   },
 }
 

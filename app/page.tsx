@@ -30,7 +30,7 @@ import { TestimonialsCarousel } from "@/components/testimonials-carousel"
 import PayPalButton from "@/components/paypal-button"
 import { PayPalProvider } from "@/components/PayPalProvider"
 import Image from "next/image"
-import { LanguageProvider, useLanguage } from "@/contexts/language-context"
+import { useLanguage } from "@/contexts/language-context"
 import { LanguageSelector } from "@/components/language-selector"
 
 const fadeInUp = {
@@ -48,11 +48,7 @@ const staggerContainer = {
 }
 
 export default function LogoLandingPage() {
-  return (
-    <LanguageProvider>
-      <LogoLandingPageContent />
-    </LanguageProvider>
-  )
+  return <LogoLandingPageContent />
 }
 
 function LogoLandingPageContent() {
