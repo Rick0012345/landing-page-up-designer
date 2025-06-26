@@ -54,7 +54,7 @@ const translations = {
 
     // Package IA START
     "package.ia.name": "IA START",
-    "package.ia.description": "LOGÓTIPO POR IA, JPG E PNG ALTA RESOLUÇÃO (MARCA DE ÁGUA EM PNG)",
+    "package.ia.description": "LOGO POR IA, JPG E PNG ALTA RESOLUCIÓN (MARCA DE AGUA EN PNG)",
     "package.ia.price": "€34,99",
     "package.ia.originalPrice": "€49,99",
     "package.ia.feature1": "Logótipo gerado por IA com personalização segundo as suas preferências",
@@ -98,7 +98,7 @@ const translations = {
     "package.premium.feature2": "PSD editável para Photoshop",
     "package.premium.feature3": "Identidade visual com cores, fontes e estilo definidos",
     "package.premium.feature4": "Manual da marca: aplicação, áreas de respiro, tamanhos mínimos",
-    "package.premium.feature5": "Tipografia profissional",
+    "package.premium.feature5": "Tipografia profesional",
     "package.premium.feature6": "Mockups em camiseta, fachada, cartão e outros",
     "package.premium.recommendation":
       "Pacote feito para marcas que querem escalar, atrair público e apresentar uma imagem profissional impecável.",
@@ -174,6 +174,7 @@ const translations = {
     // Thank You Page
     "thankyou.title": "Clique agora no botão para confirmar seu pedido e ativar automaticamente sua recompensa exclusiva",
     "thankyou.back": "Voltar para a página inicial",
+    "thankyou.payment": "Pagamento Confirmado",
   },
   es: {
     // Header Stats
@@ -320,12 +321,13 @@ const translations = {
     "checkout.instagram": "Paga a través de Instagram",
     "checkout.facebook": "Paga a través de Facebook",
     "checkout.personalized": "💬 Atención personalizada",
-    "checkout.fast": "⚡ Respuesta rápida garantizada",
+    "checkout.fast": "⚡ Réponse rapide garantie",
     "checkout.preferences": "🎨 Envía tus preferencias directamente",
 
     // Thank You Page
     "thankyou.title": "Haz clic ahora en el botón para confirmar tu pedido y activar automáticamente tu recompensa exclusiva",
     "thankyou.back": "Volver a la página principal",
+    "thankyou.payment": "Pago Confirmado",
   },
   fr: {
     // Header Stats
@@ -359,7 +361,7 @@ const translations = {
 
     // Package IA START
     "package.ia.name": "IA START",
-    "package.ia.description": "LOGO PAR IA, JPG ET PNG HAUTE RÉSOLUTION (WATERMARK EN PNG)",
+    "package.ia.description": "LOGO POR IA, JPG ET PNG HAUTE RÉSOLUTION (WATERMARK EN PNG)",
     "package.ia.price": "34,99 €",
     "package.ia.originalPrice": "49,99 €",
     "package.ia.feature1": "Logo généré par IA personnalisé selon vos préférences",
@@ -480,6 +482,7 @@ const translations = {
     // Thank You Page
     "thankyou.title": "Cliquez maintenant sur le bouton pour confirmer votre commande et activer automatiquement votre récompense exclusive",
     "thankyou.back": "Retour à la page d'accueil",
+    "thankyou.payment": "Paiement Confirmé",
   },
   it: {
     // Header Stats
@@ -632,6 +635,7 @@ const translations = {
     // Thank You Page
     "thankyou.title": "Clicca ora sul pulsante per confermare il tuo ordine e attivare automaticamente la tua ricompensa esclusiva",
     "thankyou.back": "Torna alla pagina principale",
+    "thankyou.payment": "Pagamento Confermato",
   },
   de: {
     // Header Stats
@@ -784,6 +788,7 @@ const translations = {
     // Thank You Page
     "thankyou.title": "Klicken Sie jetzt auf die Schaltfläche, um Ihre Bestellung zu bestätigen und Ihre exklusive Belohnung automatisch zu aktivieren",
     "thankyou.back": "Zurück zur Hauptseite",
+    "thankyou.payment": "Zahlung Bestätigt",
   },
 }
 
